@@ -123,8 +123,7 @@ project.start("config.json")
 ## Contributing
 PRs welcome! See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License
-MIT © 2023 Your Name
+
 ```
 
 ---
